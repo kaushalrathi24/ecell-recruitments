@@ -2,7 +2,7 @@
 
 Retreive data of all users: https://ecell-api.herokuapp.com/api/v1/results/
 
-Retreive data of speciic user with user ID: https://ecell-api.herokuapp.com/api/v1/results/\<id>/
+Retreive data of speciic user with user ID: https://ecell-api.herokuapp.com/api/v1/results/<id\>/
 
 Leo Gillespie's Data: https://ecell-api.herokuapp.com/api/v1/results/5c8a1f292f8fb814b56fa184/
 
